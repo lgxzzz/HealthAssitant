@@ -1,0 +1,16 @@
+{
+    "productKey": "a1eZdYXlMWM",
+    "deviceName": "HealthAssistan002",
+    "productSecret": "",
+    "deviceSecret": "Lp2nWhbe9BAgeb3hsoRydfUrDfHFuEqY",
+    "subDevice": [
+      {
+          "productKey": "a1eZdYXlMWM",
+          "deviceName": "HealthAssistan002"
+      },
+      {
+        "productKey": "a1eZdYXlMWM",
+        "deviceName": "HealthAssistan002"
+    }
+  ]
+}
